@@ -1,2 +1,2 @@
 
-window.location.href = 'https://www.baidu.com'
+window.location.href = 'https://www.google.com'
